@@ -132,7 +132,6 @@ public class Main {
 
     static void test_j8() {
         System.out.println("$$$$$$$$\tprac-test-java8-beg\t$$$$$$$$");
-
         System.out.println("$$$$$$$$\tprac-test-java8-end\t$$$$$$$$");
     }
 
